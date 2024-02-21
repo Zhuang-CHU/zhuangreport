@@ -10,7 +10,7 @@
 
 **zhuangreport** is a personalised .Rmd template that I use for writing
 research reports and academic papers. This template is built based on
-(lecturenotes).\[<https://github.com/grantmcdermott/lecturenotes>\] by
+[lecturenotes](https://github.com/grantmcdermott/lecturenotes) by
 **Grant McDermott **. It is intended for documents that are going to be
 exported (i.e. “knitted”) to both HTML and PDF formats. In so doing, it
 tries to take care of various annoyances and inconsistencies that arise
