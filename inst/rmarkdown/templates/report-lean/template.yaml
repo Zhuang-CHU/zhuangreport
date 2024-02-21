@@ -1,0 +1,6 @@
+name: research report (lean)
+description: >
+   My Rmd lecture notes setup, designed for exporting to just HTML formats.
+   Takes care of things like consistent environments and regression table output, support for non-standard fonts in figures, nice
+   affiliation typesetting for PDF format, etc. Thanks a lot to grantmcdermott.
+create_dir: FALSE
